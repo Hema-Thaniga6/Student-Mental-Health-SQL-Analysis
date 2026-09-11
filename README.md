@@ -4,7 +4,6 @@
 
 This project explores the relationship between the length of stay abroad and the mental health of international students.
 
- 
 Using SQL, survey data from an international university in Japan was analyzed to assess key mental health indicators, including depression, social connectedness, and acculturative stress. The objective was to identify patterns and determine whether the duration of stay abroad influences student wellbeing.
 
 ---
