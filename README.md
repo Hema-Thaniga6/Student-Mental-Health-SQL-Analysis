@@ -71,6 +71,4 @@ The analysis grouped international students by length of stay and calculated:
 ## Project Files
 
 - mental_health_analysis.sql
-- project_overview.png
-- sql_query.png
 - results.png
